@@ -1,0 +1,73 @@
+Product:    MCC Tool
+Version:    1.1 Build 18111613
+Date:       11/16/2018
+Company:    Moxa Inc.
+
+Support Platform: 
+-----------------
+Linux kernel 2.6.x, 3.x, 4.x, x86 and x64.
+Windows 10  (x86/x64)
+Windows 8.1 (x86/x64)
+Windows 8   (x86/x64)
+Windows 7   (x86/x64)
+Windows Server 2016    (x64)
+Windows Server 2012 R2 (x64)
+Windows Server 2012    (x64)
+Windows Server 2008 R2 (x64)
+
+Latest Tested Linux Distribution: 
+---------------------------------
+Ubuntu 15.4  (x64)
+Ubuntu 11.04 (x64)
+Debian 9.5.0 (x64)
+Fedora 20    (x86)
+Fedora 15    (x86)
+Fedora 26 Workstation Live (x86)
+
+
+Latest Tested Linux Kernel:
+---------------------------
+Kernel 4.11.8
+Kernel 3.19.0
+Kernel 2.6.38
+
+Supported Moxa Product: 
+-----------------------
+NPort 5100 Series: 5110A, 5130A, 5150A, P5150A
+
+NPort 5200 Series: 5210A, 5230A, 5250A
+
+NPort IA Series: IA5150A, IA5150AI, IA5250A, IA5250AI,
+                 IA5450A, IA5450AI
+
+NPort M12 Series: 5150AI-M12, 5250AI-M12, 5450AI-M12
+
+NPort 6000 Series: 6150, 6250, 6250-M-SC, 6250-S-SC, 6450, 
+                   6610-8, 6610-16, 6610-32, 
+                   6650-8, 6650-16, 6650-32
+
+MGate MB3000 Series: MB3170, MB3170I, MB3170-M-SC, MB3170-M-ST, 
+                     MB3170-S-SC, MB3170I-M-SC, MB3170I-S-SC, MB3180,
+                     MB3270, MB3270I, MB3280, MB3480,
+                     MB3660-8-2AC, MB3660-8-2DC, MB3660I-8-2AC, MB3660I-16-2AC,
+                     MB3660-16-2AC, MB3660-16-2DC, MB3660-8-J-2AC, MB3660-16-J-2AC
+
+ioLogik E1200 Series: E1210, E1211, E1212, E1213, E1214,
+                      E1240, E1241, E1242, E1260, E1262
+
+ioThinx 4500 Series: 4510
+
+Release Note:
+-------------
+ver1.1 Build 18111613
+1. New: Support plugin.
+2. New: Support new model ioThinx 4510.
+3. New: New error code -16.
+4. New: New commands.
+        (1) mcc_tool -install "plugin"
+        (2) mcc_tool -ml
+
+ver1.0 Build 17111618
+1. Newly released.
+   
+-End-

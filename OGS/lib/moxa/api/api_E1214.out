@@ -1,0 +1,338 @@
+2020-11-16T18:20:44.953Z MOXA GET http://192.168.1.200/api/slot/0/sysInfo 58ms~0s
+2020-11-16T18:20:44.961Z MOXA E1214 08:17:49 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+2020-11-16T18:20:45.507Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:20:45.507Z MOXA EVENT DI0 UP
+2020-11-16T18:20:45.508Z MOXA EVENT DI5 UP
+2020-11-16T18:20:45.508Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:46.062Z MOXA GET http://192.168.1.200/api/slot/0/io/di 54ms~0s
+2020-11-16T18:20:46.063Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:46.614Z MOXA GET http://192.168.1.200/api/slot/0/io/di 50ms~0s
+2020-11-16T18:20:46.615Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:47.167Z MOXA GET http://192.168.1.200/api/slot/0/io/di 50ms~0s
+2020-11-16T18:20:47.168Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:47.719Z MOXA GET http://192.168.1.200/api/slot/0/io/di 49ms~0s
+2020-11-16T18:20:47.719Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:48.264Z MOXA GET http://192.168.1.200/api/slot/0/io/di 44ms~0s
+2020-11-16T18:20:48.265Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:48.816Z MOXA GET http://192.168.1.200/api/slot/0/io/di 50ms~0s
+2020-11-16T18:20:48.817Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:49.358Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:20:49.358Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:49.900Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:20:49.901Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:50.310Z MOXA PUT http://192.168.1.200/api/slot/0/io/relay 347ms~0s
+2020-11-16T18:20:50.311Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:50.312Z next relays activation in 9387 msecs
+2020-11-16T18:20:50.442Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:20:50.443Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:50.996Z MOXA GET http://192.168.1.200/api/slot/0/io/di 51ms~0s
+2020-11-16T18:20:50.996Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:51.537Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:20:51.537Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:52.081Z MOXA GET http://192.168.1.200/api/slot/0/io/di 43ms~0s
+2020-11-16T18:20:52.082Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:52.631Z MOXA GET http://192.168.1.200/api/slot/0/io/di 47ms~0s
+2020-11-16T18:20:52.632Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:53.184Z MOXA GET http://192.168.1.200/api/slot/0/io/di 52ms~0s
+2020-11-16T18:20:53.185Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:53.736Z MOXA GET http://192.168.1.200/api/slot/0/io/di 50ms~0s
+2020-11-16T18:20:53.737Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:54.282Z MOXA GET http://192.168.1.200/api/slot/0/io/di 43ms~0s
+2020-11-16T18:20:54.282Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:54.822Z MOXA GET http://192.168.1.200/api/slot/0/io/di 39ms~0s
+2020-11-16T18:20:54.822Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:55.364Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:20:55.364Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:55.907Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:20:55.908Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:56.450Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:20:56.450Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:56.993Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:20:56.993Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:57.534Z MOXA GET http://192.168.1.200/api/slot/0/io/di 39ms~0s
+2020-11-16T18:20:57.534Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:58.077Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:20:58.078Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:58.621Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:20:58.621Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:20:59.164Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:20:59.165Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 0 0 0 0
+2020-11-16T18:21:01.917Z MOXA GET http://192.168.1.200/api/slot/0/io/di 2250ms~2s
+2020-11-16T18:21:01.918Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:02.259Z MOXA PUT http://192.168.1.200/api/slot/0/io/relay 2559ms~3s
+2020-11-16T18:21:02.259Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:02.260Z next relays activation in 6503 msecs
+2020-11-16T18:21:02.462Z MOXA GET http://192.168.1.200/api/slot/0/io/di 44ms~0s
+2020-11-16T18:21:02.463Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:03.006Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:03.006Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:03.546Z MOXA GET http://192.168.1.200/api/slot/0/io/di 39ms~0s
+2020-11-16T18:21:03.547Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:04.090Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:04.091Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:04.632Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:04.633Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:05.176Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:05.177Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:05.719Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:05.719Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:06.264Z MOXA GET http://192.168.1.200/api/slot/0/io/di 43ms~0s
+2020-11-16T18:21:06.264Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:06.808Z MOXA GET http://192.168.1.200/api/slot/0/io/di 43ms~0s
+2020-11-16T18:21:06.809Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:07.360Z MOXA GET http://192.168.1.200/api/slot/0/io/di 49ms~0s
+2020-11-16T18:21:07.360Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:07.902Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:07.903Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:08.447Z MOXA GET http://192.168.1.200/api/slot/0/io/di 43ms~0s
+2020-11-16T18:21:08.448Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:09.109Z MOXA PUT http://192.168.1.200/api/slot/0/io/relay 346ms~0s
+2020-11-16T18:21:09.110Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:09.110Z next relays activation in 9091 msecs
+2020-11-16T18:21:09.151Z MOXA GET http://192.168.1.200/api/slot/0/io/di 202ms~0s
+2020-11-16T18:21:09.151Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:09.692Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:09.693Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:10.234Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:10.234Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:10.779Z MOXA GET http://192.168.1.200/api/slot/0/io/di 44ms~0s
+2020-11-16T18:21:10.779Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:11.331Z MOXA GET http://192.168.1.200/api/slot/0/io/di 50ms~0s
+2020-11-16T18:21:11.331Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:11.872Z MOXA GET http://192.168.1.200/api/slot/0/io/di 39ms~0s
+2020-11-16T18:21:11.872Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:12.414Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:12.415Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:12.959Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:12.959Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:13.509Z MOXA GET http://192.168.1.200/api/slot/0/io/di 49ms~0s
+2020-11-16T18:21:13.509Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:14.054Z MOXA GET http://192.168.1.200/api/slot/0/io/di 43ms~0s
+2020-11-16T18:21:14.054Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:14.595Z MOXA GET http://192.168.1.200/api/slot/0/io/di 39ms~0s
+2020-11-16T18:21:14.595Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:15.137Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:15.137Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:15.691Z MOXA GET http://192.168.1.200/api/slot/0/io/di 53ms~0s
+2020-11-16T18:21:15.692Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:16.234Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:16.234Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:16.777Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:16.778Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:17.320Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:17.321Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:17.863Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:17.863Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 0 1
+2020-11-16T18:21:18.550Z MOXA PUT http://192.168.1.200/api/slot/0/io/relay 347ms~0s
+2020-11-16T18:21:18.550Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:18.550Z next relays activation in 8042 msecs
+2020-11-16T18:21:18.591Z MOXA GET http://192.168.1.200/api/slot/0/io/di 228ms~0s
+2020-11-16T18:21:18.592Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:19.148Z MOXA GET http://192.168.1.200/api/slot/0/io/di 54ms~0s
+2020-11-16T18:21:19.148Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:19.690Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:19.691Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:20.233Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:20.234Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:20.777Z MOXA GET http://192.168.1.200/api/slot/0/io/di 43ms~0s
+2020-11-16T18:21:20.778Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:21.328Z MOXA GET http://192.168.1.200/api/slot/0/io/di 49ms~0s
+2020-11-16T18:21:21.329Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:21.871Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:21.871Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:22.414Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:22.415Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:22.955Z MOXA GET http://192.168.1.200/api/slot/0/io/di 39ms~0s
+2020-11-16T18:21:22.955Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:23.498Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:23.499Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:24.042Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:24.042Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:24.584Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:24.585Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:25.135Z MOXA GET http://192.168.1.200/api/slot/0/io/di 50ms~0s
+2020-11-16T18:21:25.135Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:25.679Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:25.680Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:26.220Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:26.221Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:26.946Z MOXA PUT http://192.168.1.200/api/slot/0/io/relay 352ms~0s
+2020-11-16T18:21:26.946Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:26.947Z next relays activation in 9436 msecs
+2020-11-16T18:21:26.988Z MOXA GET http://192.168.1.200/api/slot/0/io/di 267ms~0s
+2020-11-16T18:21:26.989Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:27.531Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:27.531Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:28.076Z MOXA GET http://192.168.1.200/api/slot/0/io/di 44ms~0s
+2020-11-16T18:21:28.077Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:28.628Z MOXA GET http://192.168.1.200/api/slot/0/io/di 49ms~0s
+2020-11-16T18:21:28.629Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:29.175Z MOXA GET http://192.168.1.200/api/slot/0/io/di 45ms~0s
+2020-11-16T18:21:29.176Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:29.718Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:29.718Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:30.260Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:30.260Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:30.811Z MOXA GET http://192.168.1.200/api/slot/0/io/di 49ms~0s
+2020-11-16T18:21:30.811Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:31.352Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:31.353Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:31.895Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:31.896Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:32.439Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:32.439Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:32.982Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:32.983Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:33.534Z MOXA GET http://192.168.1.200/api/slot/0/io/di 50ms~0s
+2020-11-16T18:21:33.534Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:34.078Z MOXA GET http://192.168.1.200/api/slot/0/io/di 44ms~0s
+2020-11-16T18:21:34.079Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:34.623Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:34.624Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:35.166Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:35.167Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:35.707Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:35.707Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:36.250Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:36.251Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 0 1 1
+2020-11-16T18:21:36.729Z MOXA PUT http://192.168.1.200/api/slot/0/io/relay 345ms~0s
+2020-11-16T18:21:36.729Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:36.729Z next relays activation in 8797 msecs
+2020-11-16T18:21:36.793Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:36.793Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:37.334Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:37.335Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:37.877Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:37.877Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:38.420Z MOXA GET http://192.168.1.200/api/slot/0/io/di 43ms~0s
+2020-11-16T18:21:38.421Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:38.962Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:38.962Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:39.504Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:39.504Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:40.047Z MOXA GET http://192.168.1.200/api/slot/0/io/di 43ms~0s
+2020-11-16T18:21:40.048Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:40.597Z MOXA GET http://192.168.1.200/api/slot/0/io/di 48ms~0s
+2020-11-16T18:21:40.598Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:41.141Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:41.142Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:41.684Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:41.685Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:42.225Z MOXA GET http://192.168.1.200/api/slot/0/io/di 39ms~0s
+2020-11-16T18:21:42.225Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:42.772Z MOXA GET http://192.168.1.200/api/slot/0/io/di 45ms~0s
+2020-11-16T18:21:42.772Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:43.315Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:43.316Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:43.858Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:43.858Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:44.400Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:44.400Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:44.943Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:44.944Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:45.488Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:45.488Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 1 0 1 0 1
+2020-11-16T18:21:45.868Z MOXA PUT http://192.168.1.200/api/slot/0/io/relay 341ms~0s
+2020-11-16T18:21:45.868Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:45.868Z next relays activation in 7079 msecs
+2020-11-16T18:21:46.030Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:46.031Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:46.581Z MOXA GET http://192.168.1.200/api/slot/0/io/di 48ms~0s
+2020-11-16T18:21:46.582Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:47.138Z MOXA GET http://192.168.1.200/api/slot/0/io/di 55ms~0s
+2020-11-16T18:21:47.139Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:47.690Z MOXA GET http://192.168.1.200/api/slot/0/io/di 49ms~0s
+2020-11-16T18:21:47.691Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:48.231Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:48.231Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:48.773Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:48.774Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:49.328Z MOXA GET http://192.168.1.200/api/slot/0/io/di 53ms~0s
+2020-11-16T18:21:49.328Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:49.869Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:49.869Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:50.411Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:50.411Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:50.954Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:50.955Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:51.496Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:51.497Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:52.039Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:52.040Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:52.582Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:21:52.583Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 1 1
+2020-11-16T18:21:53.292Z MOXA PUT http://192.168.1.200/api/slot/0/io/relay 345ms~0s
+2020-11-16T18:21:53.293Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 0 1
+2020-11-16T18:21:53.293Z next relays activation in 6817 msecs
+2020-11-16T18:21:53.333Z MOXA GET http://192.168.1.200/api/slot/0/io/di 250ms~0s
+2020-11-16T18:21:53.334Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 0 1
+2020-11-16T18:21:53.877Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:53.877Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 0 1
+2020-11-16T18:21:54.425Z MOXA GET http://192.168.1.200/api/slot/0/io/di 48ms~0s
+2020-11-16T18:21:54.426Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 0 1
+2020-11-16T18:21:54.969Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:21:54.970Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 0 1
+2020-11-16T18:21:55.511Z MOXA GET http://192.168.1.200/api/slot/0/io/di 39ms~0s
+2020-11-16T18:21:55.511Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 0 1
+2020-11-16T18:21:56.055Z MOXA GET http://192.168.1.200/api/slot/0/io/di 44ms~0s
+2020-11-16T18:21:56.056Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 0 1
+2020-11-16T18:21:56.598Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:56.599Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 0 1
+2020-11-16T18:21:57.150Z MOXA GET http://192.168.1.200/api/slot/0/io/di 49ms~0s
+2020-11-16T18:21:57.150Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 0 1
+2020-11-16T18:21:57.705Z MOXA GET http://192.168.1.200/api/slot/0/io/di 53ms~0s
+2020-11-16T18:21:57.705Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 0 1
+2020-11-16T18:21:58.247Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:58.248Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 0 1
+2020-11-16T18:21:58.790Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:21:58.791Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 0 1
+2020-11-16T18:21:59.345Z MOXA GET http://192.168.1.200/api/slot/0/io/di 52ms~0s
+2020-11-16T18:21:59.345Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 0 1
+2020-11-16T18:21:59.890Z MOXA GET http://192.168.1.200/api/slot/0/io/di 45ms~0s
+2020-11-16T18:21:59.890Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 0 0 0 1
+2020-11-16T18:22:00.457Z MOXA PUT http://192.168.1.200/api/slot/0/io/relay 345ms~0s
+2020-11-16T18:22:00.457Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 1 0 0 1
+2020-11-16T18:22:00.458Z next relays activation in 6040 msecs
+2020-11-16T18:22:00.497Z MOXA GET http://192.168.1.200/api/slot/0/io/di 106ms~0s
+2020-11-16T18:22:00.498Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 1 0 0 1
+2020-11-16T18:22:01.040Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:22:01.040Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 1 0 0 1
+2020-11-16T18:22:01.582Z MOXA GET http://192.168.1.200/api/slot/0/io/di 40ms~0s
+2020-11-16T18:22:01.583Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 1 0 0 1
+2020-11-16T18:22:02.128Z MOXA GET http://192.168.1.200/api/slot/0/io/di 43ms~0s
+2020-11-16T18:22:02.129Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 1 0 0 1
+2020-11-16T18:22:02.678Z MOXA GET http://192.168.1.200/api/slot/0/io/di 47ms~0s
+2020-11-16T18:22:02.679Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 1 0 0 1
+2020-11-16T18:22:03.232Z MOXA GET http://192.168.1.200/api/slot/0/io/di 53ms~0s
+2020-11-16T18:22:03.233Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 1 0 0 1
+2020-11-16T18:22:03.781Z MOXA GET http://192.168.1.200/api/slot/0/io/di 47ms~0s
+2020-11-16T18:22:03.782Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 1 0 0 1
+2020-11-16T18:22:04.335Z MOXA GET http://192.168.1.200/api/slot/0/io/di 51ms~0s
+2020-11-16T18:22:04.335Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 1 0 0 1
+2020-11-16T18:22:04.877Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:22:04.877Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 1 0 0 1
+2020-11-16T18:22:05.420Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:22:05.421Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 1 0 0 1
+2020-11-16T18:22:05.974Z MOXA GET http://192.168.1.200/api/slot/0/io/di 53ms~0s
+2020-11-16T18:22:05.975Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 1 1 1 0 0 1
+2020-11-16T18:22:06.536Z MOXA GET http://192.168.1.200/api/slot/0/io/di 59ms~0s
+2020-11-16T18:22:06.536Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 1 1 1 1
+2020-11-16T18:22:06.871Z MOXA PUT http://192.168.1.200/api/slot/0/io/relay 373ms~0s
+2020-11-16T18:22:06.871Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 1 1 1 1
+2020-11-16T18:22:06.872Z next relays activation in 5128 msecs
+2020-11-16T18:22:07.085Z MOXA GET http://192.168.1.200/api/slot/0/io/di 48ms~0s
+2020-11-16T18:22:07.086Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 1 1 1 1
+2020-11-16T18:22:07.630Z MOXA GET http://192.168.1.200/api/slot/0/io/di 44ms~0s
+2020-11-16T18:22:07.631Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 1 1 1 1
+2020-11-16T18:22:08.174Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:22:08.174Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 1 1 1 1
+2020-11-16T18:22:08.721Z MOXA GET http://192.168.1.200/api/slot/0/io/di 46ms~0s
+2020-11-16T18:22:08.721Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 1 1 1 1
+2020-11-16T18:22:09.264Z MOXA GET http://192.168.1.200/api/slot/0/io/di 41ms~0s
+2020-11-16T18:22:09.264Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 1 1 1 1
+2020-11-16T18:22:09.811Z MOXA GET http://192.168.1.200/api/slot/0/io/di 46ms~0s
+2020-11-16T18:22:09.812Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 1 1 1 1
+2020-11-16T18:22:10.359Z MOXA GET http://192.168.1.200/api/slot/0/io/di 45ms~0s
+2020-11-16T18:22:10.359Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 1 1 1 1
+2020-11-16T18:22:10.902Z MOXA GET http://192.168.1.200/api/slot/0/io/di 42ms~0s
+2020-11-16T18:22:10.903Z MOXA Digital Inputs: 1 0 0 0 0 1 Relays (outputs): 0 0 1 1 1 1

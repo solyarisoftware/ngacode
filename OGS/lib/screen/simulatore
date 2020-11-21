@@ -1,0 +1,72 @@
+#!/bin/bash
+
+# https://stackoverflow.com/questions/1194882/how-to-generate-random-number-in-bash/1195035
+
+figletFont=mono12
+minSleep=4
+
+function ctrl_c() {
+  setterm --cursor on
+  setterm --inversescreen off
+  reset
+  exit
+}
+
+# trap ctrl-c and call ctrl_c()
+trap ctrl_c SIGINT
+
+function initTerminal { 
+  #setterm --inversescreen on
+  #setterm --inversescreen off
+  reset
+  setterm --cursor off
+  clear
+  printf "simulatore\npassaggio veicoli\n" | figlet -t -f $figletFont
+  sleep 2
+  clear
+}
+
+function validCode {
+  aplay -q validCode.wav &
+  setterm --inversescreen on
+  setterm --foreground green --background black
+  clear
+  printf "veicolo riconosciuto\n\narrivederci" | figlet -t -f $figletFont
+  
+  sleep $(( $minSleep + $((RANDOM%4)) ))
+  setterm --inversescreen off
+  clear
+}
+
+function invalidCode {
+  aplay -q invalidCode.wav &
+  setterm --inversescreen on
+  setterm --foreground red --background black
+  clear
+  printf "veicolo non riconosciuto\n\nContatta l'operatore" | figlet -t -f $figletFont
+  
+  sleep $(( $minSleep + $((RANDOM%4)) ))
+  setterm --inversescreen off
+  clear
+}
+
+function infiniteLoop {
+  while true
+  do
+
+    if ((  $((RANDOM%100)) > 60 )); then
+      # probability: 60%
+      validCode
+    else
+      # probability: 40%
+      invalidCode 
+    fi
+
+    # few seconds of delay
+    sleep $(( $minSleep + $((RANDOM%5)) )) 
+
+  done
+}
+
+initTerminal
+infiniteLoop

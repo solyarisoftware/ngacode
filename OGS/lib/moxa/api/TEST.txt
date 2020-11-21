@@ -1,0 +1,337 @@
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 55ms~0s
+MOXA E1214 01:38:22 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 50ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 50ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 343ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 254ms~0s
+MOXA E1214 01:38:32 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 57ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 230ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 352ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 52ms~0s
+MOXA E1214 01:38:40 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 43ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 56ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 344ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 54ms~0s
+MOXA E1214 01:38:45 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 49ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 48ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 353ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 52ms~0s
+MOXA E1214 01:38:49 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 49ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 49ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 344ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 243ms~0s
+MOXA E1214 01:38:55 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 1111ms~1s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 57ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 350ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 51ms~0s
+MOXA E1214 01:39:00 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 50ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 50ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 346ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 273ms~0s
+MOXA E1214 01:39:08 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 54ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 186ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 529ms~1s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 53ms~0s
+MOXA E1214 01:39:12 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 52ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 57ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 341ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 48ms~0s
+MOXA E1214 01:39:16 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 49ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 58ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 344ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 54ms~0s
+MOXA E1214 01:39:21 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 50ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 59ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 348ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 55ms~0s
+MOXA E1214 01:39:25 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 49ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 57ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+^[[AMOXA PUT http://192.168.1.200/api/slot/0/io/relay in 344ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 54ms~0s
+MOXA E1214 01:39:29 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 51ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 56ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 349ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 58ms~0s
+MOXA E1214 01:40:05 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 56ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 47ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 341ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 49ms~0s
+MOXA E1214 01:40:10 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 45ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 48ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 339ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 48ms~0s
+MOXA E1214 01:40:14 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 48ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 48ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 344ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 45ms~0s
+MOXA E1214 01:40:20 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 39ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 46ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 340ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 61ms~0s
+MOXA E1214 01:40:30 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 58ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 53ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 337ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 64ms~0s
+MOXA E1214 01:40:34 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 50ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 58ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 344ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 52ms~0s
+MOXA E1214 01:40:38 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 49ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 50ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 345ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 54ms~0s
+MOXA E1214 01:40:44 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 43ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 47ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 347ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 52ms~0s
+MOXA E1214 01:40:48 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 48ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 48ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 349ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 48ms~0s
+MOXA E1214 01:40:52 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 49ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 49ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 355ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 48ms~0s
+MOXA E1214 01:40:55 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 45ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 49ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 343ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 48ms~0s
+MOXA E1214 01:40:59 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 40ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 47ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 345ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 44ms~0s
+MOXA E1214 01:41:03 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 39ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 48ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 347ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 52ms~0s
+MOXA E1214 01:41:07 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 54ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 48ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 346ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 55ms~0s
+MOXA E1214 01:41:16 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 55ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 49ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 339ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 54ms~0s
+MOXA E1214 01:41:22 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 49ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 47ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 341ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 54ms~0s
+MOXA E1214 01:41:26 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 50ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 48ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 347ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 46ms~0s
+MOXA E1214 01:41:31 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 49ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 48ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 346ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 57ms~0s
+MOXA E1214 01:41:34 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 49ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 49ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 343ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 49ms~0s
+MOXA E1214 01:41:44 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 44ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 48ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 348ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 46ms~0s
+MOXA E1214 01:41:49 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 49ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 48ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 344ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 60ms~0s
+MOXA E1214 01:41:53 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 56ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 60ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 347ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 44ms~0s
+MOXA E1214 01:42:04 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 40ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 48ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 345ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 62ms~0s
+MOXA E1214 01:42:12 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 52ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 46ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 340ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 50ms~0s
+MOXA E1214 01:42:20 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 40ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 48ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 347ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 45ms~0s
+MOXA E1214 01:42:25 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 40ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 48ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 344ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 53ms~0s
+MOXA E1214 01:42:30 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 47ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 48ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 348ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 54ms~0s
+MOXA E1214 01:42:36 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 54ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 48ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 339ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+$ node api_E1214.js 
+MOXA GET http://192.168.1.200/api/slot/0/sysInfo in 61ms~0s
+MOXA E1214 01:42:41 V3.0 Build17111512 00-90-e8-79-e3-17 192.168.1.200
+MOXA GET http://192.168.1.200/api/slot/0/io/di in 56ms~0s
+MOXA GET http://192.168.1.200/api/slot/0/io/relay in 51ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+MOXA PUT http://192.168.1.200/api/slot/0/io/relay in 341ms~0s
+MOXA INPUTS 1 0 0 0 0 1 OUTPUTS 1 1 1 0 0 0
+

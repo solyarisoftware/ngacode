@@ -1,0 +1,14 @@
+{
+  "name": "firebird",
+  "version": "1.0.0",
+  "description": "$ isql-fb Use CONNECT or CREATE DATABASE to specify a database SQL> quit; $  sudo vi /etc/firebird/3.0/firebird.conf $ sudo systemctl status firebird3.0 ● firebird3.0.service - Firebird Database Server ( SuperServer )    Loaded: loaded (/lib/systemd/system/firebird3.0.service; enabled; vendor preset: enabled)    Active: inactive (dead) $ sudo systemctl restart firebird3.0 $ sudo systemctl status firebird3.0 ● firebird3.0.service - Firebird Database Server ( SuperServer )    Loaded: loaded (/lib/systemd/system/firebird3.0.service; enabled; vendor preset: enabled)    Active: active (running) since Sun 2020-08-09 12:31:21 CEST; 6s ago   Process: 22816 ExecStart=/usr/sbin/fbguard -pidfile /run/firebird3.0/default.pid -daemon -forever (code=exited, status=0/SUCCESS)  Main PID: 22817 (fbguard)     Tasks: 5 (limit: 4915)    CGroup: /system.slice/firebird3.0.service            ├─22817 /usr/sbin/fbguard -pidfile /run/firebird3.0/default.pid -daemon -forever            └─22818 /usr/sbin/firebird",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-firebird": "^0.9.3"
+  }
+}
